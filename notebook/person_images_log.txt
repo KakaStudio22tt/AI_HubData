@@ -1,0 +1,5 @@
+/home/thaongo/fiftyone/quickstart/data/004755.jpg
+/home/thaongo/fiftyone/quickstart/data/002538.jpg
+/home/thaongo/fiftyone/quickstart/data/001698.jpg
+/home/thaongo/fiftyone/quickstart/data/004713.jpg
+/home/thaongo/fiftyone/quickstart/data/002063.jpg
